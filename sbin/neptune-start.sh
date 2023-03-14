@@ -1,0 +1,1 @@
+docker run --rm -p 8182:8182 neptune
