@@ -9,3 +9,6 @@ docker run --rm -p 8182:8182 neptune
 
 curl "localhost:8182/gremlin?gremlin=g.V()"
 ```
+
+## Install Graph Notebook
+https://github.com/aws/graph-notebook
